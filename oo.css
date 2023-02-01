@@ -1,0 +1,363 @@
+body{
+  margin: 0;
+}
+
+.header{
+  background-color: #e25544;
+  display: flex;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right {
+  display: flex;
+  width: 380px;
+  height: 50px;
+}
+
+.left{
+  display: flex;
+  margin-left: 50px;
+  width: 500px;
+  height: 50px;
+}
+
+.banner{
+  background-color:#e25544;
+  height: 1250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.h1-place{
+  width: 700px;
+  margin-left: 160px;
+}
+
+h1{
+  color: white;
+  font-size: 55px;
+  text-align: center;
+}
+
+.Benefits{
+  display: flex;
+}
+
+.Benefits-items{
+  color: white;
+  margin-left: 15px;
+  font-size: 20px;
+  margin-top: 80px;
+  margin-right: 20px;
+}
+
+.cta-logo{
+  margin-right: 30px;
+  background-color: #e25544;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  font-size: 25px;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.join-cta{
+  border-radius: 15px;
+  background-color: white;
+  color: #e25544;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-left: 35px;
+  margin-right: 25px;
+  border: 0;
+}
+
+p{
+  color: white;
+  font-size: 18px;
+  margin-left: 35px;
+}
+
+.enter-cta{
+  background-color: #e25544;
+  border: 0;
+  color: white;
+  margin-left: 15px;
+  font-size: 15px;
+  margin-top: 7px;
+}
+
+.secthion{
+  height: 1500px;
+  background-color: white;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 38px;
+}
+
+.two-type-time-of-studing{
+  display: flex;
+  justify-content: center;
+}
+
+.day{
+  width: 500px;
+  background-color: #f5f6fa;
+  height: 520px;
+  border-radius: 15px;
+  border: 5px;
+  margin-left: 20px;
+}
+
+h3{
+  color: black;
+  font-size: 33px;
+  margin-left: 35px;
+}
+
+.pop{
+  color: #e25544;
+  font-size: 20px;
+}
+
+.subinfo{
+  color:black;
+  font-size: 15px;
+}
+
+.gaps{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-colors{
+  color: black;
+}
+
+.right-colors{
+  color: #e25544;
+  margin-right: 35px;
+}
+
+.PS{
+  color: black;
+  font-size: 10px;
+}
+
+.line{
+  width: 425px;
+}
+
+.ofers{
+  width: 500px;
+  border-radius: 23px;
+  background-color: white;
+  border: 1px solid black;
+  height: 200px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.ofers_right{
+  width: 500px;
+  border-radius: 23px;
+  background-color: white;
+  border: 1px solid black;
+  height: 250px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.more-cta{
+  padding: 8px 39px;
+  border-radius: 25px;
+  background-color: #e25544;
+  color: white;
+  font-size: 19px;
+  margin-left: 35px;
+  border: 0;
+  cursor: pointer;
+}
+
+.discribe-offers{
+  color: black;
+  font-size: 15px;
+}
+
+.conteiner{
+  display: flex;
+  justify-content: center;
+}
+
+.he{
+  font-size: 25px;
+  text-align: left;
+  width: 250px;
+}
+
+.more-cta-right{
+  padding: 8px 39px;
+  border-radius: 25px;
+  background-color: plum;
+  color: white;
+  font-size: 19px;
+  margin-left: 35px;
+  border: 0;
+  cursor: pointer;
+}
+
+.box{
+  border: 3px;
+  border-radius: 25px;
+  background-color: gray;
+  width: 200px;
+  height: 150px;
+  margin-left: 25px;
+  margin-top: 19px;
+}
+
+.logos{
+  margin-left: 35px;
+}
+
+.box-continer{
+  display: flex;
+  justify-content: center;
+}
+
+.class-for-p-text{
+  color: black;
+  margin-top: 50px;
+  font-size: 17px;
+}
+
+.comemercial{
+  display: flex;
+  margin-top: 75px;
+  justify-content: center;
+}
+
+.block-masage{
+  width: 510px;
+}
+
+.otzovik-baner{
+  display: flex;
+  justify-content: center;
+}
+
+.all-otzov{
+  display: flex;
+  justify-content: center;
+}
+
+.otzuv-text {
+  width: 500px;
+  height: 550px;
+}
+
+.read-more{
+  background-color: white;
+  border: 0;
+  color: #e25544;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.end-part{
+  display: block;
+  justify-content: center;
+  background-color: blue;
+  width: 100%;
+  height: 700px;
+  
+}
+
+.end-join-cta {
+  background-color: #e25544;
+  border-radius: 100px;
+  border: 5px;
+  color: white;
+  font-size: 9px;
+  padding: 15px 100px;
+  margin-bottom: 15px;
+  align-items: center;
+  margin-left: 1100px;
+}
+.test {
+  text-align: center;
+}
+
+.Benefits-list {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.vertical-line{
+  height: 55px;
+  border-left: 1px solid white;
+  margin-left: 39px;
+  margin-right: 0;
+  color: white;
+}
+
+.end-title{ 
+  margin-top: 55px;
+  color: #f5f6fa;
+  font-size: 55px;
+}
+
+.end-text-logo {
+  width: 55px;
+}
+
+.sexthion-before-bank-shit{
+  display: flex;
+}
+
+.butons-secthion-one{
+  margin-left: 275px;
+}
+
+.butons-secthion-two{
+  margin-left: 1255px;
+}
+
+.end-button{
+  background-color: blue;
+  color: gray;
+  font-size: 10px;
+  border: 0;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 375px) { 
+  .header{
+    width: 375px;
+  }
+  .banner{
+    width: 370px;
+  }
+  .right{
+    width: 50px;
+  }
+  .left{
+    width: 50px;
+    
+  }
+  }
+
+
